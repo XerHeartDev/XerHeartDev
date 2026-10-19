@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there, I'm Theodore Johnson, aka Xerheart 👋<br>🔭 I’m currently working on Raznar Hosting<br>🌱 I’m currently learning AWS Cloud<br>⚡ Fun fact I'm also a TCG Player (YuGiOh, MTG, Pokemon, WS)
+# 💫 Hi there, I'm Theodore Johnson, aka Xerheart 👋
+🔭 I’m currently working on Raznar Hosting<br>🌱 I’m currently learning AWS Cloud<br>⚡ Fun fact I'm also a TCG Player (YuGiOh, MTG, Pokemon, WS)
 
 
 ## 🌐 Socials:
