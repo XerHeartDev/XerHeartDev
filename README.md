@@ -9,8 +9,8 @@
 
 # 📊 GitHub Stats:
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=XerHeartDev&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=XerHeartDev&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight)
-[![](https://github-stats-extended.vercel.app/api/top-langs?username=XerHeartDev&layout=donut&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=XerHeartDev&layout=donut&langs_count=4&theme=tokyonight)<br/>  
-![](https://streak-stats.demolab.com/?user=XerHeartDev&theme=onedark&hide_border=false)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=XerHeartDev&layout=donut&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=XerHeartDev&layout=donut&langs_count=4&theme=tokyonight)<br/>  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=75e99253-8c7f-4645-aef2-df7733f358ff&langs_count=4&display_format=percent&theme=tokyonight)](https://wakatime.com/@75e99253-8c7f-4645-aef2-df7733f358ff)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
