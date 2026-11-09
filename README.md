@@ -62,10 +62,12 @@ Technologies and tools I work with or explore.
 <details>
   <summary>⏱️ Weekly coding activity (WakaTime)</summary>
   <br>
-  <a href="https://wakatime.com/@75e99253-8c7f-4645-aef2-df7733f358ff">
-    <img alt="WakaTime stats" src="https://github-stats-extended.vercel.app/api/wakatime?username=75e99253-8c7f-4645-aef2-df7733f358ff&langs_count=4&display_format=percent&theme=tokyonight" />
-  </a>
-</details>
+  <p align="center">
+    <a href="https://wakatime.com/@75e99253-8c7f-4645-aef2-df7733f358ff">
+      <img alt="WakaTime stats" src="https://github-stats-extended.vercel.app/api/wakatime?username=75e99253-8c7f-4645-aef2-df7733f358ff&langs_count=4&display_format=percent&theme=tokyonight" />
+    </a>
+  </p>
+  </details>
 
 ---
 
