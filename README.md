@@ -59,5 +59,16 @@ Technologies and tools I work with or explore.
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=XerHeartDev&layout=donut&langs_count=4&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app
+<details>
+  <summary>⏱️ Weekly coding activity (WakaTime)</summary>
+  <br>
+  <a href="https://wakatime.com/@75e99253-8c7f-4645-aef2-df7733f358ff">
+    <img alt="WakaTime stats" src="https://github-stats-extended.vercel.app/api/wakatime?username=75e99253-8c7f-4645-aef2-df7733f358ff&langs_count=4&display_format=percent&theme=tokyonight" />
+  </a>
+</details>
+
+---
+
+<div align="center">
+  <img alt="Random dev quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
