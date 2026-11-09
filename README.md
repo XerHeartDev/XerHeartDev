@@ -4,7 +4,7 @@
 
 I'm a developer who enjoys building practical applications, exploring new technologies, and turning ideas into working solutions.
 
-- 🔭 **Currently working on:** [Raznar Hosting](#Raznar-Hosting)
+- 🔭 **Currently working on:** [Raznar Hosting](https://github.com/Raznar-Hosting)
 - 🌱 **Currently learning:** AWS Cloud & Cloud Infrastructure
 - 💻 **Interested in:** Backend Development, Full-Stack Engineering & Cloud Computing
 - ⚡ **Outside of coding:** Trading Card Games (Yu-Gi-Oh!, Magic: The Gathering, Pokémon TCG & Weiß Schwarz)
