@@ -71,4 +71,6 @@ Technologies and tools I work with or explore.
 
 ---
 
-
+<div align="center">
+  <img alt="Random dev quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
