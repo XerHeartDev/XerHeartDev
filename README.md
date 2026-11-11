@@ -55,8 +55,8 @@ Technologies and tools I work with or explore.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=XerHeartDev&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=XerHeartDev&layout=donut&langs_count=4&theme=tokyonight" alt="Top Languages" />
+  <img height="180em" src="./stats/github-stats.svg" alt="GitHub Stats" />
+  <img height="180em" src="./stats/top-languages.svg" alt="Top Languages" />
 </p>
 
 <details>
@@ -64,7 +64,7 @@ Technologies and tools I work with or explore.
   <br>
   <p align="center">
     <a href="https://wakatime.com/@75e99253-8c7f-4645-aef2-df7733f358ff">
-      <img alt="WakaTime stats" src="https://github-stats-extended.vercel.app/api/wakatime?username=75e99253-8c7f-4645-aef2-df7733f358ff&langs_count=4&display_format=percent&theme=tokyonight" />
+      <img alt="WakaTime stats" src="./stats/wakatime.svg" />
     </a>
   </p>
   </details>
