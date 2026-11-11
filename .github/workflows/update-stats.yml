@@ -1,0 +1,50 @@
+
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Generate GitHub Stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=XerHeartDev&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight
+          path: stats/github-stats.svg
+
+      - name: Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=XerHeartDev&layout=donut&langs_count=4&theme=tokyonight
+          path: stats/top-languages.svg
+
+      - name: Generate WakaTime Stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: wakatime
+          options: username=75e99253-8c7f-4645-aef2-df7733f358ff&langs_count=4&display_format=percent&theme=tokyonight
+          path: stats/wakatime.svg
+
+      - name: Commit updated stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add stats/*.svg
+          git diff --cached --quiet && exit 0
+
+          git commit -m "chore: update GitHub stats"
+          git push
