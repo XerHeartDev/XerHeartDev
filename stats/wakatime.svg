@@ -135,11 +135,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >36.47 %</text>
+      >46.30 %</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="36.47%">
+      <svg data-testid="lang-progress" width="46.3%">
         <rect
             height="8"
             
@@ -153,16 +153,16 @@
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="TypeScript">TypeScript:</text>
+      <text class="stat bold" y="12.5" data-testid="PHP">PHP:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >27.30 %</text>
+      >22.46 %</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="27.3%">
+      <svg data-testid="lang-progress" width="22.46%">
         <rect
             height="8"
             
@@ -181,11 +181,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >21.75 %</text>
+      >21.29 %</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="21.75%">
+      <svg data-testid="lang-progress" width="21.29%">
         <rect
             height="8"
             
@@ -199,16 +199,16 @@
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="PHP">PHP:</text>
+      <text class="stat bold" y="12.5" data-testid="JavaScript">JavaScript:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >14.63 %</text>
+      >9.64 %</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="14.63%">
+      <svg data-testid="lang-progress" width="9.64%">
         <rect
             height="8"
             
