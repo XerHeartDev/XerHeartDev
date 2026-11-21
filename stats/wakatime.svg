@@ -135,11 +135,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >35.80 %</text>
+      >44.11 %</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="35.8%">
+      <svg data-testid="lang-progress" width="44.11%">
         <rect
             height="8"
             
@@ -158,11 +158,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >32.74 %</text>
+      >27.28 %</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="32.74%">
+      <svg data-testid="lang-progress" width="27.28%">
         <rect
             height="8"
             
@@ -181,11 +181,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >16.66 %</text>
+      >15.34 %</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="16.66%">
+      <svg data-testid="lang-progress" width="15.34%">
         <rect
             height="8"
             
@@ -199,16 +199,16 @@
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="TypeScript">TypeScript:</text>
+      <text class="stat bold" y="12.5" data-testid="Bash">Bash:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >15.12 %</text>
+      >13.22 %</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="15.12%">
+      <svg data-testid="lang-progress" width="13.22%">
         <rect
             height="8"
             
